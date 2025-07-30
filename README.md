@@ -1,4 +1,5 @@
-
+# Project Link
+Live- https://papaya-klepon-f233d0.netlify.app/
 # 📊 AdMyBrand Analytics Dashboard
 
 A fast, responsive, AI-powered analytics dashboard built with **Next.js**, **TypeScript**, **TailwindCSS**, and **shadcn/ui**. This project supports chart visualizations, CSV/XLS upload, data download (PDF/CSV), dark mode, and mobile responsiveness.
