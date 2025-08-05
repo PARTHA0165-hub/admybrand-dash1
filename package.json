@@ -1,5 +1,4 @@
 {
-  "homepage":"http://PARTHA0165-hub.github.io/admybrand-dash",
   "name": "admybrand-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -7,9 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy":"npm run build",
-    "deploy":"gh-page -g build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
